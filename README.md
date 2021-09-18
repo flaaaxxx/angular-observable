@@ -1,4 +1,4 @@
-# AngularObservableObserver
+# Angular Observable Observer
 
 This is a simple example shows how to use Observable and Observer
 
