@@ -43,8 +43,8 @@ export class AppComponent implements OnInit {
       console.log('Finish');
     });
 
-    //////////////
-    // modify data
+    //////////////////
+    // modify incoming
     console.log('Modify data');
     const object3 = observable.pipe(
       map((x) => x = x + 40)).subscribe(observer);
