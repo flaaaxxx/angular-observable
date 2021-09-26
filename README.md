@@ -21,6 +21,6 @@ The method creates an object as an instance of the Subscriber class.
 
 ## Operators
 
-- creating operators - creates the data source ib frontend
+- creating operators - creates the data source in frontend
 - pipeable - these are arguments given in the pipe method. 
 Based on original data creates new data.
